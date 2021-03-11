@@ -1,0 +1,30 @@
+
+Package: com.khalidalhamadi.FirstRelease
+Version: 1.0
+Section: Tweaks
+Maintainer: Khalid Al Hamadi <khalidsrepo@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 3826 
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: This is a test package.
+Name: Test package
+Author: Khalid Al Hamadi <khalidsrepo@gmail.com>
+Depiction: A Test tweak
+
+Package: appstore++
+Name: AppStore++
+Version: 0.9.14-11
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Installed-Size:300
+Author: CokePokes
+Maintainer: CokePokes
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14
+Size: 3003986
+MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
+Filename: ./debs/Appstore++.deb
+Depiction: https://khalidsrepo.github.io/depictions/?p=Appstore++
+
