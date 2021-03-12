@@ -1,3 +1,3 @@
-Made by Khalid Al Hamadi MLS.
+Made by Khalid Al Hamadi.
 
-Checkout my channel "Khalids Repo MLS"
+Checkout my channel "Khalids Repo"
