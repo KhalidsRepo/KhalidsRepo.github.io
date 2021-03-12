@@ -28,3 +28,18 @@ MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
 Filename: ./debs/Appstore++.deb
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 
+Package: socialdownloader 
+Name: Social Downloader
+Version: 1.2-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 1744
+Author: elias
+Maintainer: elias
+Description: Download videos from social media apps !!
+Size: 376630
+MD5sum: 64a2806148602bc9b272b52036633ae0
+Filename: ./debs/SocialDownloader.deb
+Depiction: https://khalidsrepo.github.io/depictions/?p=[SocialDownloader]
+
