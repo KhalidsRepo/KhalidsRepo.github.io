@@ -10,16 +10,16 @@ Author: CokePokes
 Maintainer: CokePokes
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14
 Size: 3003986
-MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
 Filename: ./debs/Appstore++.deb
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 
-Package:  MergePlaneHack
+Package:  mergeplanehack
 Name: Merge Plane Hack
 Version: 2.0
 Section: Hacked games
 Architecture: iphoneos-arm
-Depends: firmware (>= 11.0)
+Depends: 
 Installed-Size: 7467
 Author: Khalid Al Hamadi
 Maintainer: Khalid Al Hamadi
@@ -29,3 +29,17 @@ MD5sum: 08635f38c0b74c5d08de50b4ae0c75f2
 Filename: ./debs/MergePlaneHack.deb
 Depiction: Hacked version of Merge plane
 
+Package:  socialdownloader
+Name: Social Downloader
+Version: 1.2-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate , ws.hbang.common
+Installed-Size: 1744
+Author: Elias
+Maintainer: Elias
+Description: Download photos or videos from social media
+Size: 376630
+MD5sum: 64a2806148602bc9b272b52036633ae0
+Filename: ./debs/SocialDownloader.deb
+Depiction: Download photos or videos from social media
