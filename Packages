@@ -38,8 +38,23 @@ Depends: mobilesubstrate , ws.hbang.common
 Installed-Size: 1744
 Author: Elias
 Maintainer: Elias
-Description: Download photos or videos from social media
-Size: 376630
+Description: Download photos / videos and stories from Social Apps
+Size: 3024992
 MD5sum: 64a2806148602bc9b272b52036633ae0
 Filename: ./debs/SocialDownloader.deb
-Depiction: Download photos or videos from social media
+Depiction: Download photos / videos and stories from Social Apps
+
+Package:  appsyncunified
+Name: AppSync Unified
+Version: 1.2-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.6)
+Installed-Size: 732
+Author: Karen/あけみ, Linus Yang
+Maintainer: Karen/あけみ, Linus Yang
+Description: Enables the ability to install unsigned/fakesigned iOS applications which means you can download any tweaked app or normal app from the web or from filza file manager or the app store or even from cydia or an app that allows you to install apps.
+Size: 58,308
+MD5sum: cd493deb0ef48d69d3568831c4fa2ab4
+Filename: ./debs/AppSyncUnified.deb
+Depiction: Enables the ability to install unsigned/fakesigned iOS applications which means you can download any tweaked app or normal app from the web or from filza file manager or the app store or even from cydia or an app that allows you to install apps.
