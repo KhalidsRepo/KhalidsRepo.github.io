@@ -68,8 +68,8 @@ Depends:
 Installed-Size: 7467
 Author: Khalid Al Hamadi
 Maintainer: Khalid Al Hamadi
-Description: Hacked version of Merge plane
+Description: Hacked version of BitLife
 Size: 600 
 MD5sum: 70fc6624f59f590427cecae635fde38f
-Filename: ./debs/MergePlaneHack.deb
-Depiction: Hacked version of BitLfe
+Filename: ./debs/BitLifeHack.deb
+Depiction: Hacked version of BitLife
