@@ -58,3 +58,18 @@ Size: 58,308
 MD5sum: cd493deb0ef48d69d3568831c4fa2ab4
 Filename: ./debs/AppSyncUnified.deb
 Depiction: Enables the ability to install unsigned/fakesigned iOS applications which means you can download any tweaked app or normal app from the web or from filza file manager or the app store or even from cydia or an app that allows you to install apps.
+
+Package:  mergeplanehack
+Name: Merge Plane Hack
+Version: 2.0
+Section: Hacked games
+Architecture: iphoneos-arm
+Depends: 
+Installed-Size: 7467
+Author: Khalid Al Hamadi
+Maintainer: Khalid Al Hamadi
+Description: Hacked version of Merge plane
+Size: 600 
+MD5sum: 70fc6624f59f590427cecae635fde38f
+Filename: ./debs/MergePlaneHack.deb
+Depiction: Hacked version of BitLfe
